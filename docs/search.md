@@ -20,7 +20,7 @@ here's an overview of how the data flows:
 
 
 The following image shows the example PDF used with this example config:
-![Click to enlarge](/assets/images/just-the-docs.png)
+![Click to enlarge](https://github.com/fscelliott/just-the-docs/raw/master/assets/images/generic_dataflow.jpg)
 
 
 
