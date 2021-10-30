@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "API Reference":
-    - "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v2.0/json/petstore.json"
+    - "http://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v2.0/json/petstore.json"
 
   "YOUR CO":
     - "//github.com/pmarsceill/just-the-docs"
